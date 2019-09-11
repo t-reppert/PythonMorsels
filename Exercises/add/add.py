@@ -1,4 +1,4 @@
-# Add matrices together (min
+# Add matrices together
 def add(*args):
     num_mat = len(args)
     if num_mat < 2:
